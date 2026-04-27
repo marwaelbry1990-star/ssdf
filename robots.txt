@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ssdf-ashy.vercel.app/sitemap.xml
